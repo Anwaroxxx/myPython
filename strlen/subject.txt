@@ -1,0 +1,5 @@
+make a function that returns lenght of a string.
+
+#Exemple :
+String = anwar ---> 5
+string = Hi ---> 2

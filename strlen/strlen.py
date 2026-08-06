@@ -4,5 +4,5 @@ def strlen(string):
         i += 1
     return i
 
-# str = "Anwar"
-# print(strlen(str))
+str = 22
+print(strlen(str))
